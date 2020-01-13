@@ -9,3 +9,9 @@
    - source bin/activate
    - python manage.py runserver
    - Go to localhost:8000/shop/ to run the ecommerce website
+   
+## INSTALL REQUIREMENTS
+   
+   Make sure you install all the requirements before running ther server
+   For example:
+   - pip install stripe
