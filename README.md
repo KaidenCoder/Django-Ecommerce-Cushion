@@ -1,4 +1,4 @@
-# NewsApiDjango
+# DJANGO-ECOMMERCE_CUSHION
  This is a ecommerce website built in Python and Django. It has stripe installed.
 
 
