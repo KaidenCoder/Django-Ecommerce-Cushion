@@ -12,6 +12,6 @@
    
 ## INSTALL REQUIREMENTS
    
-   Make sure you install all the requirements before running ther server
+   Make sure you install all the requirements before running ther server.
    For example:
    - pip install stripe
