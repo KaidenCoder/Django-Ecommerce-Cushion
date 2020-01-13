@@ -1,4 +1,4 @@
-# DJANGO-ECOMMERCE_CUSHION
+## DJANGO-ECOMMERCE-CUSHION
  This is a ecommerce website built in Python and Django. It has stripe installed.
 
 
